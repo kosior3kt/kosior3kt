@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning neural networks and embedded C
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me:
-  -01150817@pw.edu.pl
+  01150817@pw.edu.pl
 
 <!---
 kosior3kt/kosior3kt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
