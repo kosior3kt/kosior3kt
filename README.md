@@ -10,6 +10,7 @@
   - ML (but in C)
   - rust for concurrency
   - C + wasm
+  - some java (because I was being bullied by higherLevel gang)
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me:
   - 01150817@pw.edu.pl
