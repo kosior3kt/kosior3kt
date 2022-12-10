@@ -15,6 +15,7 @@
   - 01150817@pw.edu.pl
   - kosior3kt@hanyang.ac.kr
   - jakub.kosiorek.55@gmail.pl
+- DISCLAIMER - this acc doesn't have anything interesting in it - I use it as a memoryCapsuleLike trashBin and/or temporary synchronization tool 
 
 <!---
 kosior3kt/kosior3kt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
