@@ -15,7 +15,8 @@
 - 📫 How to reach me:
   - 01150817@pw.edu.pl
   - kosior3kt@hanyang.ac.kr
-  - jakub.kosiorek.55@gmail.pl
+  - jakub.kosiorek.55@gmail.com
+  - http://www.kosior3kt.pl (<-------- probably I'm already broke and can't afford hosting website/affording domain, for weblike experience pull my 'if-it-workis-it-works repo and host it yourself)
 - DISCLAIMER - this acc doesn't have anything interesting in it - I use it as a memoryCapsuleLike trashBin and/or temporary synchronization tool 
 
 <!---
