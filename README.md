@@ -4,19 +4,22 @@
   - low level programming
   - concurrency
   - unix based systems
-  - making my vim workflow as seemless as possible
+  - making my nvim workflow as seemless as possible
   - other non programming stuff that nobody reading this would care anyways
+  - functional programming
 - 🌱 I’m currently learning:
   - ML (but in C)
+  - functional C++ ("WE DONT NEED ENCAPSULATION")
   - rust for concurrency
   - C + wasm
+  - astro (+ other web dev BS)
   - some java (because I was being bullied by higherLevel gang)
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me:
   - 01150817@pw.edu.pl
   - kosior3kt@hanyang.ac.kr
   - jakub.kosiorek.55@gmail.com
-  - http://www.kosior3kt.pl (<-------- probably I'm already broke and can't afford hosting website/affording domain, for weblike experience pull my 'if-it-workis-it-works' repo and host it yourself)
+  - http://kosior3kt.github.io
 - DISCLAIMER - this acc doesn't have anything interesting in it - I use it as a memoryCapsuleLike trashBin and/or temporary synchronization tool 
 
 <!---
