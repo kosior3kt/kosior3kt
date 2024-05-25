@@ -6,4 +6,4 @@
   - kosior3kt@hanyang.ac.kr
   - jakub.kosiorek.55@gmail.com
   - http://kosior3kt.github.io
-- I do lowLevel stuff and functionalStuff
+- I do lowLevelStuff and functionalStuff
